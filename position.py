@@ -7,7 +7,9 @@ class Position:
     lorsqu'on se déplace vers la droite, et une unité de ligne lorsqu'on se déplace vers le bas.
 
 
-YEHAWWcxzczxcxz
+YEHAWWcxzczxcxzDDD
+
+Allo!
 
     +-------+-------+-------+-------+
     | (0,0) | (0,1) | (0,2) |  ...  |
